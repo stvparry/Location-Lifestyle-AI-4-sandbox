@@ -1,0 +1,101 @@
+name,region,type,active_life,walking_nature,waterside,learning,culture,food_drink,community,practicality,healthcare,rail,property_value,climate,terrain,heritage,retirement
+Marlow,TBD,Lifestyle Town,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+Henley-on-Thames,TBD,Lifestyle Town,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+Cookham,TBD,Lifestyle Town,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8
+Windsor,TBD,Lifestyle Town,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+Maidenhead,TBD,Lifestyle Town,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+Amersham,TBD,Lifestyle Town,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+Beaconsfield,TBD,Lifestyle Town,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8
+Berkhamsted,TBD,Lifestyle Town,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+St Albans,TBD,Lifestyle Town,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+Guildford,TBD,Lifestyle Town,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+Godalming,TBD,Lifestyle Town,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8
+Farnham,TBD,Lifestyle Town,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+Haslemere,TBD,Lifestyle Town,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+Weybridge,TBD,Lifestyle Town,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+Dorking,TBD,Lifestyle Town,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8
+Winchester,TBD,Lifestyle Town,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+Lymington,TBD,Lifestyle Town,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+Alresford,TBD,Lifestyle Town,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+Petersfield,TBD,Lifestyle Town,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8
+Chichester,TBD,Lifestyle Town,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+Arundel,TBD,Lifestyle Town,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+Stamford,TBD,Lifestyle Town,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+Sherborne,TBD,Lifestyle Town,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8
+Ludlow,TBD,Lifestyle Town,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+Tetbury,TBD,Lifestyle Town,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+Cirencester,TBD,Lifestyle Town,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+Market Harborough,TBD,Lifestyle Town,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8
+Oakham,TBD,Lifestyle Town,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+Harrogate,TBD,Lifestyle Town,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+Ilkley,TBD,Lifestyle Town,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+Ripon,TBD,Lifestyle Town,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8
+York,TBD,Lifestyle Town,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+Helmsley,TBD,Lifestyle Town,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+Richmond,TBD,Lifestyle Town,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+Beverley,TBD,Lifestyle Town,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8
+Aldeburgh,TBD,Lifestyle Town,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+Southwold,TBD,Lifestyle Town,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+Whitstable,TBD,Lifestyle Town,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+Deal,TBD,Lifestyle Town,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8
+Rye,TBD,Lifestyle Town,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+Fowey,TBD,Lifestyle Town,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+Salcombe,TBD,Lifestyle Town,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+Dartmouth,TBD,Lifestyle Town,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8
+Abergavenny,TBD,Lifestyle Town,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+Monmouth,TBD,Lifestyle Town,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+Cowbridge,TBD,Lifestyle Town,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+Tenby,TBD,Lifestyle Town,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8
+Conwy,TBD,Lifestyle Town,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+St Andrews,TBD,Lifestyle Town,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+North Berwick,TBD,Lifestyle Town,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+Pitlochry,TBD,Lifestyle Town,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8
+Perth,TBD,Lifestyle Town,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+Bath,TBD,Lifestyle Town,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+Wells,TBD,Lifestyle Town,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+Frome,TBD,Lifestyle Town,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8
+Cheltenham,TBD,Lifestyle Town,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+Stroud,TBD,Lifestyle Town,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+Totnes,TBD,Lifestyle Town,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+Cambridge,TBD,Lifestyle Town,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8
+Ely,TBD,Lifestyle Town,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+Norwich,TBD,Lifestyle Town,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+Holt,TBD,Lifestyle Town,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+Woodbridge,TBD,Lifestyle Town,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8
+Saffron Walden,TBD,Lifestyle Town,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+Maldon,TBD,Lifestyle Town,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+Canterbury,TBD,Lifestyle Town,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+Lewes,TBD,Lifestyle Town,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8
+Brighton,TBD,Lifestyle Town,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+Oxford,TBD,Lifestyle Town,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+Woodstock,TBD,Lifestyle Town,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+Wallingford,TBD,Lifestyle Town,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8
+Witney,TBD,Lifestyle Town,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+Newbury,TBD,Lifestyle Town,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+Reading,TBD,Lifestyle Town,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+Wokingham,TBD,Lifestyle Town,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8
+Ascot,TBD,Lifestyle Town,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+Sevenoaks,TBD,Lifestyle Town,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+Tunbridge Wells,TBD,Lifestyle Town,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+Durham,TBD,Lifestyle Town,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8
+Alnwick,TBD,Lifestyle Town,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+Hexham,TBD,Lifestyle Town,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+Kendal,TBD,Lifestyle Town,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+Keswick,TBD,Lifestyle Town,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8
+Ambleside,TBD,Lifestyle Town,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+Windermere,TBD,Lifestyle Town,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+Cartmel,TBD,Lifestyle Town,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+Chester,TBD,Lifestyle Town,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8
+Knutsford,TBD,Lifestyle Town,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+Nantwich,TBD,Lifestyle Town,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+Shrewsbury,TBD,Lifestyle Town,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+Bridgnorth,TBD,Lifestyle Town,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8
+Warwick,TBD,Lifestyle Town,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+Leamington Spa,TBD,Lifestyle Town,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+Malvern,TBD,Lifestyle Town,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+Salisbury,TBD,Lifestyle Town,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8
+Marlborough,TBD,Lifestyle Town,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+Lyme Regis,TBD,Lifestyle Town,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+Bridport,TBD,Lifestyle Town,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+Falmouth,TBD,Lifestyle Town,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8
+St Ives,TBD,Lifestyle Town,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
